@@ -30,3 +30,4 @@ bin
 # Project
 precomp_data
 test-results
+.DS_Store
